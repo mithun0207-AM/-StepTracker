@@ -21,28 +21,6 @@
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center"><b>🏠 Home</b></td>
-    <td align="center"><b>📊 Weekly Stats</b></td>
-    <td align="center"><b>📅 History</b></td>
-    <td align="center"><b>⚙️ Settings</b></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/home.png" width="200"/></td>
-    <td><img src="screenshots/stats.png" width="200"/></td>
-    <td><img src="screenshots/history.png" width="200"/></td>
-    <td><img src="screenshots/settings.png" width="200"/></td>
-  </tr>
-</table>
-</div>
-
-> 📷 *Add your own screenshots by taking them on your device and placing them in the `screenshots/` folder*
-
----
 
 ## ✨ Features
 
@@ -113,7 +91,7 @@ This project follows **Clean Architecture** with **MVVM** pattern — the same a
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/StepTrackerApp.git
+git clone https://github.com/mithun0207-AM/-StepTracker.git
 
 # 2. Open in Android Studio
 # File → Open → Select the cloned folder
@@ -192,17 +170,6 @@ Test coverage includes:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a PR.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
 
 ## 📄 License
 
